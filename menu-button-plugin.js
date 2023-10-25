@@ -1,7 +1,6 @@
 videojs.registerPlugin('pluginName', function() {
     //var myPlayer = this;
-    <script src="//path/to/video.js"></script>
-    <script src="//path/to/videojs-settings-menu.js"></script>
+    <script src="https://players.brightcove.net/18140038001/7VVzCFZXE_default/index.min.js"></script>
     <script>
 	var player = videojs('videojs-settings-menu-player', {
 		'playbackRates': [0.5, 1, 1.5, 2],
